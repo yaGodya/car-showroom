@@ -3,7 +3,7 @@
 Веб-застосунок віртуального автосалону на базі REST API [DummyJSON](https://dummyjson.com/) (категорія `vehicle`).
 
 
-**Посилання на розгорнутий застосунок:** 
+**DEMO:** https://car-showroom-theta-taupe.vercel.app/
 
 ## Інструкція
 
