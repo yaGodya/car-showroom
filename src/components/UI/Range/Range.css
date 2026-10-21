@@ -1,0 +1,22 @@
+.range {
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.range label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    color: #333;
+}
+
+.range input[type="range"] {
+    width: 100%;
+    accent-color: #020202;
+    cursor: pointer;
+}
+
+.range__value {
+    margin: 0.35rem 0 0;
+    font-size: 0.875rem;
+}
